@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         // commento per il secondo branch di GIT
+        // commento per il branch destro
     }
 }
