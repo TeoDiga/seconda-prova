@@ -12,5 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         // commento per il secondo branch di GIT
         // commento per il branch destro
+        
+        // modifica online di un ipotetico collega
     }
 }
